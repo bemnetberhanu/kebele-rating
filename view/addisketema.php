@@ -98,6 +98,15 @@
                     <input type="radio" name="pol"  id="po4"><label>4</label>
                     <input type="radio" name="pol"  id="po5"><label>5</label>
                 </div>
+                <div class="group">
+                    <h3>rate your expiriance out of 5</h3>
+                    <div class="rating" id="ra">
+                        <input type="radio" name="ra" " id="ra1" required><label>1</label>
+                        <input type="radio" name="ra"  id="ra2"><lable>2</label>
+                        <input type="radio" name="ra"  id="ra3"><label >3</label>
+                        <input type="radio" name="ra"  id="ra4"><label>4</label>
+                        <input type="radio" name="ra"  id="ra5"><label>5</label>
+                </div>
             </div>
             
             <h3>comment (optional)</h3>
